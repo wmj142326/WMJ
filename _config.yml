@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-6536-0600"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -74,8 +74,6 @@ author:
   youtube          : # Username
   github            : "wmj142326"
   zhihu            : "mochenxiaoxiao"
-  bilibili         : "384233049"
-
   
 
 # Publication Category - The following the list of publication categories and their headings
