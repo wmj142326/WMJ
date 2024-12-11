@@ -10,7 +10,7 @@
 locale                   : "zh-CN"
 title                    : "Meijun Wang / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Meijun Wang (王美军)"
+name                     : &name "Meijun Wang"
 description              : &description "PhD student at University of Science & Technology Beijing"
 url                      : https://wmj142326.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,19 +22,19 @@ repository               : "wmj142326/wmj142326.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Meijun Wang (王美军)"
+  pronouns         : # example: "he/him"  
+  bio              : "PhD student"
+  location         : "Beijing, China"
+  employer         : "(USTB) University of Science & Technology Beijing"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "drwmj@xs.ustb.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6536-0600"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/wmj142326"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -72,7 +72,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "陌尘小小"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
