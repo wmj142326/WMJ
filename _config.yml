@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "Meijun Wang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Meijun Wang"
