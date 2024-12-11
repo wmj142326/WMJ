@@ -21,7 +21,7 @@ repository               : "wmj142326/wmj142326.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Meijun Wang (王美军)"
   pronouns         : # example: "he/him"  
   bio              : "PhD student"
@@ -72,7 +72,10 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "陌尘小小"
+  zhihu            : "mochenxiaoxiao"
+  bilibili         : "https://space.bilibili.com/384233049"
+
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
