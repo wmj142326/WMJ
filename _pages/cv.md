@@ -26,7 +26,7 @@ Work experience
 * 2023.09-present: Beijing University of Science and Technology
   * Ph.D Student
   * Smart Vehicle Lab 
-  * Environment Perception for Intelligent vehicles
+  * Environment Perception for Intelligent Vehicles
     
 * 2016.09-2023.06: Beijing University of Science and Technology
   * Student
@@ -39,9 +39,9 @@ Work experience
   
 Publications
 ======
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+* You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=zh-CN)
+* You can find my projects on [my Github profile](https://github.com/wmj142326)
+
   
 Skills
 ======
