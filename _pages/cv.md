@@ -26,7 +26,7 @@ Work experience
 * 2023.09-present: Beijing University of Science and Technology
   * Ph.D Student
   * Smart Vehicle Lab 
-  * Human Pose Estimation and Reconstruction
+  * Environment Perception for Intelligent vehicles
     
 * 2016.09-2023.06: Beijing University of Science and Technology
   * Student
@@ -45,13 +45,8 @@ Publications
   
 Skills
 ======
-Welcome to my Zhihu reading share:[陌尘小小](https://www.zhihu.com/people/mochenxiaoxiao)
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Welcome to my reade sharing: [陌尘小小-Zhihu](https://www.zhihu.com/people/mochenxiaoxiao)
+* Welcome to my video sharing: [陌尘小小-BiliBili](https://space.bilibili.com/384233049)
 
 
 Talks
