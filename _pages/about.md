@@ -50,5 +50,5 @@ Skills
 * Welcome to my reade sharing: [陌尘小小-Zhihu](https://www.zhihu.com/people/mochenxiaoxiao)
 * Welcome to my video sharing: [陌尘小小-BiliBili](https://space.bilibili.com/384233049)
 
-<img src="[QR_code.png](https://github.com/wmj142326/wmj142326.github.io/blob/master/images/QR_code.png)" alt="QR code" style="width: 150px; height: 150px;" />
+<img src="../images/QR_code.png" alt="QR code" style="width: 150px; height: 150px;" />
 
