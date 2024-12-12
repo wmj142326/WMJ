@@ -19,13 +19,13 @@ Research Interests
 ======
 * Autonomous Driving, Computer Vision
 * Human Pose Estimation and Reconstruction
-* Vehicle active and passive protection technology for pedestrian safety
+* Vehicle Active and Passive Protection Technology for Pedestrian Safety
 
 Work experience
 ======
 * 2023.09-present: Beijing University of Science and Technology
-  * Ph.D
-  * Autonomous Driving 
+  * Ph.D Student
+  * Smart Vehicle Lab 
   * Human Pose Estimation and Reconstruction
     
 * 2016.09-2023.06: Beijing University of Science and Technology
@@ -37,8 +37,15 @@ Work experience
   * Intern Researcher
   * 3D hand pose estimation
   
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Skills
 ======
+Welcome to my Zhihu reading share:[陌尘小小](https://www.zhihu.com/people/mochenxiaoxiao)
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -46,12 +53,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
