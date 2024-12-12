@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Meijun Wang / Personal Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Meijun Wang"
 description              : &description "PhD student at University of Science & Technology Beijing"
