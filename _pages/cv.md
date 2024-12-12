@@ -15,22 +15,27 @@ Education
 * M.S. in Beijing University of Science and Technology, 2020.09-2023.06
 * B.S. in Beijing University of Science and Technology, 2016.09-2020.06
 
+Research Interests
+======
+* Autonomous Driving, Computer Vision
+* Human Pose Estimation and Reconstruction
+* Vehicle active and passive protection technology for pedestrian safety
+
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023.09-present: Beijing University of Science and Technology
+  * Ph.D
+  * Autonomous Driving 
+  * Human Pose Estimation and Reconstruction
+    
+* 2016.09-2023.06: Beijing University of Science and Technology
+  * Student
+  * School of Mechanical Engineering
+  * Department of Vehicle Engineering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.03-2023.09: Lenovo Research
+  * Intern Researcher
+  * 3D hand pose estimation
   
 Skills
 ======
