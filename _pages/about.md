@@ -73,7 +73,7 @@ Publications
   >     font-size: 16px;
   >     color: black;  /* 设置红色星号 */
   >     position: relative;
-  >     top: -4px; /* 将星号稍微提升，放到右上角 */
+  >     top: -1px; /* 将星号稍微提升，放到右上角 */
   >   }
   > </style>
   > 
