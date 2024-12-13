@@ -44,6 +44,12 @@ Publications
 * You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=zh-CN)
 * You can find my projects on [my Github profile](https://github.com/wmj142326)
 
+| Image | Paper Information |
+| --- | --- |
+| ![Paper Image](image_link) | **Title**: [Paper Title](paper_link)  <br> **Authors**: Author1, Author2, Author3  <br> **Journal/Conference**: Journal/Conference Name  <br> **[PDF Download](pdf_link)**  <br> **[Code](code_link)** |
+| ![Paper Image](image_link) | **Title**: [Paper Title](paper_link)  <br> **Authors**: Author1, Author2, Author3  <br> **Journal/Conference**: Journal/Conference Name  <br> **[PDF Download](pdf_link)**  <br> **[Code](code_link)** |
+
+
   
 Skills
 ======
