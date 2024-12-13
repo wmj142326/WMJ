@@ -71,9 +71,9 @@ Publications
   >   }
   >   .star {
   >     font-size: 16px;
-  >     color: red;  /* 设置红色星号 */
+  >     color: black;  /* 设置红色星号 */
   >     position: relative;
-  >     top: -10px; /* 将星号稍微提升，放到右上角 */
+  >     top: -4px; /* 将星号稍微提升，放到右上角 */
   >   }
   > </style>
   > 
