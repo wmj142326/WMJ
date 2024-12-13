@@ -44,10 +44,48 @@ Publications
 * You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=zh-CN)
 * You can find my projects on [my Github profile](https://github.com/wmj142326)
 
-  | Image | Paper Information |
-  | --- | --- |
-  | <img src="../images/PVCP.png" alt="PVCP" width="150" height="auto" > | **Title**: [Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Pedestrian-Centric+3D+Pre-collision+Pose+and+Shape+Estimation+from+Dashcam+Perspective&btnG=)  <br> **Authors**: MeiJun Wang, Yu Meng, Zhongwei Qiu, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao  <br> **Conference**: (NeurIPS 2024) The Thirty-eighth Annual Conference on Neural Information Processing Systems  <br> [PDF](https://openreview.net/pdf?id=ldvfaYzG35)  [Code](https://github.com/wmj142326/PVCP)  [More](https://neurips.cc/virtual/2024/poster/93814)|
-  | <img src="../images/MBPR.png" alt="PVCP" width="150" height="auto" > | **Title**: [Real-Time Reconstruction of Multi-Body Pedestrian Pre-Impact Posture in Collision Accidents From Monocular Images](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Real-Time+Reconstruction+of+Multi-Body+Pedestrian+Pre-Impact+Posture+in+Collision+Accidents+From+Monocular+Images&btnG=)  <br> **Authors**: MeiJun Wang, Yu Meng, Yan Xu, Quan Li, Bingbing Nie  <br> **Journal**: IEEE Transactions on Intelligent Transportation Systems, 2024  <br> [PDF](https://ieeexplore.ieee.org/abstract/document/10746249)   [Code](https://github.com/wmj142326/MBPR) |
+  <style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td {
+    text-align: center;
+    padding: 10px;
+  }
+  img {
+    max-width: 150px;
+    height: auto;
+  }
+  table, td {
+    border: none;
+  }
+</style>
+
+<table>
+  <tr>
+    <td><img src="../images/PVCP.png" alt="PVCP" width="150" height="auto"></td>
+    <td>
+      <strong>Title</strong>: <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Pedestrian-Centric+3D+Pre-collision+Pose+and+Shape+Estimation+from+Dashcam+Perspective&btnG=">Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective</a><br>
+      <strong>Authors</strong>: MeiJun Wang, Yu Meng, Zhongwei Qiu, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao<br>
+      <strong>Conference</strong>: (NeurIPS 2024) The Thirty-eighth Annual Conference on Neural Information Processing Systems<br>
+      <a href="https://openreview.net/pdf?id=ldvfaYzG35">PDF</a> 
+      <a href="https://github.com/wmj142326/PVCP">Code</a> 
+      <a href="https://neurips.cc/virtual/2024/poster/93814">More</a>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="../images/MBPR.png" alt="MBPR" width="150" height="auto"></td>
+    <td>
+      <strong>Title</strong>: <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Real-Time+Reconstruction+of+Multi-Body+Pedestrian+Pre-Impact+Posture+in+Collision+Accidents+From+Monocular+Images&btnG=">Real-Time Reconstruction of Multi-Body Pedestrian Pre-Impact Posture in Collision Accidents From Monocular Images</a><br>
+      <strong>Authors</strong>: MeiJun Wang, Yu Meng, Yan Xu, Quan Li, Bingbing Nie<br>
+      <strong>Journal</strong>: IEEE Transactions on Intelligent Transportation Systems, 2024<br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10746249">PDF</a> 
+      <a href="https://github.com/wmj142326/MBPR">Code</a>
+    </td>
+  </tr>
+</table>
+
 
 
   
