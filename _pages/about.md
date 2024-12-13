@@ -20,7 +20,7 @@ Education
 Research Interests
 ======
 * Autonomous Driving, Computer Vision
-* Human Pose Estimation and Reconstruction
+* Human Pose Estimation and Generation
 * Vehicle Active and Passive Protection Technology for Pedestrian Safety
 
 Work experience
