@@ -70,7 +70,7 @@ Publications
   > 
   > <table>
   >   <tr>
-  >     <td><img src="../images/PVCP.png" alt="PVCP" width="150" height="auto"></td>
+  >     <td><img src="../images/PVCP.png" alt="PVCP" width="200" height="auto"></td>
   >     <td>
   >       <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Pedestrian-Centric+3D+Pre-collision+Pose+and+Shape+Estimation+from+Dashcam+Perspective&btnG="><strong>Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective</strong></a><br>
   >       <span class="small-text">MeiJun Wang, Yu Meng, Zhongwei Qiu, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao</span><br>
@@ -81,7 +81,7 @@ Publications
   >     </td>
   >   </tr>
   >   <tr>
-  >     <td><img src="../images/MBPR.png" alt="MBPR" width="150" height="auto"></td>
+  >     <td><img src="../images/MBPR.png" alt="MBPR" width="200" height="auto"></td>
   >     <td>
   >       <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Real-Time+Reconstruction+of+Multi-Body+Pedestrian+Pre-Impact+Posture+in+Collision+Accidents+From+Monocular+Images&btnG="><strong>Real-Time Reconstruction of Multi-Body Pedestrian Pre-Impact Posture in Collision Accidents From Monocular Images</strong></a><br>
   >       <span class="small-text">MeiJun Wang, Yu Meng, Yan Xu, Quan Li, Bingbing Nie</span><br>
