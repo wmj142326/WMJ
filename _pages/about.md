@@ -88,7 +88,6 @@ Publications
   >       <span class="small-text">IEEE Transactions on Intelligent Transportation Systems, 2024</span><br>
   >       <a href="https://ieeexplore.ieee.org/abstract/document/10746249" class="link">PDF</a>
   >       <a href="https://github.com/wmj142326/MBPR" class="link">Code</a>
-  >       <a href="https://neurips.cc/virtual/2024/poster/93814" class="link">More</a>
   >     </td>
   >   </tr>
   > </table>
