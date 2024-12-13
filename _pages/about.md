@@ -43,25 +43,8 @@ Publications
 ======
 * You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=zh-CN)
 * You can find my projects on [my Github profile](https://github.com/wmj142326)
-
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  td {
-    padding: 10px;
-  }
-  img {
-    max-width: 150px;
-    height: auto;
-  }
-  table, td {
-    border: none;
-  }
-</style>
-
-<table>
+ 
+  <table>
   <tr>
     <td><img src="../images/PVCP.png" alt="PVCP" width="150" height="auto"></td>
     <td>
@@ -83,7 +66,7 @@ Publications
       <a href="https://github.com/wmj142326/MBPR">Code</a>
     </td>
   </tr>
-</table>
+  </table>
 
 
   
