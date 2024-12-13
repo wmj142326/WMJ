@@ -48,6 +48,7 @@ Publications
   >   table {
   >     width: 100%;
   >     border-collapse: collapse;
+  >     font-size: 14px;  /* 字体大小设置为14px */
   >   }
   >   td {
   >     padding: 10px;
@@ -59,6 +60,9 @@ Publications
   >   table, td {
   >     border: none;
   >   }
+  >   .small-text {
+  >     font-size: 13px;  /* 让作者、期刊等文本变小 */
+  >   }
   > </style>
   > 
   > <table>
@@ -66,8 +70,8 @@ Publications
   >     <td><img src="../images/PVCP.png" alt="PVCP" width="150" height="auto"></td>
   >     <td>
   >       <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Pedestrian-Centric+3D+Pre-collision+Pose+and+Shape+Estimation+from+Dashcam+Perspective&btnG="><strong>Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective</strong></a><br>
-  >       MeiJun Wang, Yu Meng, Zhongwei Qiu, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao<br>
-  >       (NeurIPS 2024) The Thirty-eighth Annual Conference on Neural Information Processing Systems<br>
+  >       <span class="small-text">MeiJun Wang, Yu Meng, Zhongwei Qiu, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao</span><br>
+  >       <span class="small-text">(NeurIPS 2024) The Thirty-eighth Annual Conference on Neural Information Processing Systems</span><br>
   >       <a href="https://openreview.net/pdf?id=ldvfaYzG35">PDF</a> 
   >       <a href="https://github.com/wmj142326/PVCP">Code</a> 
   >       <a href="https://neurips.cc/virtual/2024/poster/93814">More</a>
@@ -77,13 +81,14 @@ Publications
   >     <td><img src="../images/MBPR.png" alt="MBPR" width="150" height="auto"></td>
   >     <td>
   >       <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Real-Time+Reconstruction+of+Multi-Body+Pedestrian+Pre-Impact+Posture+in+Collision+Accidents+From+Monocular+Images&btnG="><strong>Real-Time Reconstruction of Multi-Body Pedestrian Pre-Impact Posture in Collision Accidents From Monocular Images</strong></a><br>
-  >       MeiJun Wang, Yu Meng, Yan Xu, Quan Li, Bingbing Nie<br>
-  >       IEEE Transactions on Intelligent Transportation Systems, 2024<br>
+  >       <span class="small-text">MeiJun Wang, Yu Meng, Yan Xu, Quan Li, Bingbing Nie</span><br>
+  >       <span class="small-text">IEEE Transactions on Intelligent Transportation Systems, 2024</span><br>
   >       <a href="https://ieeexplore.ieee.org/abstract/document/10746249">PDF</a> 
   >       <a href="https://github.com/wmj142326/MBPR">Code</a>
   >     </td>
   >   </tr>
   > </table>
+
 
   
 Skills
