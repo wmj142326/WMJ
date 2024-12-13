@@ -61,7 +61,7 @@ Publications
   >     border: none;
   >   }
   >   .small-text {
-  >     font-size: 13px;  /* 让作者、期刊等文本变小 */
+  >     font-size: 12px;  /* 让作者、期刊等文本变小 */
   >   }
   >   .link {
   >     margin-right: 10px;  /* 设置链接之间的间距 */
@@ -70,7 +70,7 @@ Publications
   >     font-weight: bold; /* 加粗 */
   >   }
   >   .star {
-  >     font-size: 16px;
+  >     font-size: 12px;
   >     color: black;  /* 设置红色星号 */
   >     position: relative;
   >     top: -1px; /* 将星号稍微提升，放到右上角 */
