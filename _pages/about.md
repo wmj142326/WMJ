@@ -44,22 +44,22 @@ Publications
 * You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=zh-CN)
 * You can find my projects on [my Github profile](https://github.com/wmj142326)
 
-  <style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  td {
-    text-align: center;
-    padding: 10px;
-  }
-  img {
-    max-width: 150px;
-    height: auto;
-  }
-  table, td {
-    border: none;
-  }
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+td {
+  text-align: center;
+  padding: 10px;
+}
+img {
+  max-width: 150px;
+  height: auto;
+}
+table, td {
+  border: none;
+}
 </style>
 
 <table>
