@@ -46,7 +46,7 @@ Publications
 
 | Image | Paper Information |
 | --- | --- |
-| ![Paper Image](https://github.com/wmj142326/PVCP/blob/master/image/PVCP_dataset.png) | **Title**: [Paper Title](paper_link)  <br> **Authors**: Author1, Author2, Author3  <br> **Journal/Conference**: Journal/Conference Name  <br> **[PDF Download](pdf_link)**  <br> **[Code](code_link)** |
+| <img src="https://github.com/wmj142326/PVCP/blob/master/image/PVCP_dataset.png" width="150" height="auto"> | **Title**: [Pedestrian-Centric 3D Pre-collision Pose and Shape Estimation from Dashcam Perspective](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Pedestrian-Centric+3D+Pre-collision+Pose+and+Shape+Estimation+from+Dashcam+Perspective&btnG=)  <br> **Authors**: MeiJun Wang, Yu Meng, Zhongwei Qiu, Chao Zheng, Yan Xu, Pengxiaorui, Jian Gao  <br> **Conference**: (NeurIPS 2024) The Thirty-eighth Annual Conference on Neural Information Processing Systems  <br> **[PDF](https://openreview.net/pdf?id=ldvfaYzG35)**  **[Code](https://github.com/wmj142326/PVCP)** |
 | ![Paper Image](image_link) | **Title**: [Paper Title](paper_link)  <br> **Authors**: Author1, Author2, Author3  <br> **Journal/Conference**: Journal/Conference Name  <br> **[PDF Download](pdf_link)**  <br> **[Code](code_link)** |
 
 
