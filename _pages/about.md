@@ -100,4 +100,4 @@ Skills
 
 QR Code
 ======
-  <img src="../images/QR_code.png" alt="QR code" style="width: 20%; height: auto;" />
+  <img src="../images/QR_code.png" alt="QR code" width="200" height="auto">
