@@ -37,7 +37,7 @@ Work experience
 
 * 2023.03-2023.09: Lenovo Research
   * Intern Researcher
-  * 3D hand pose estimation
+  * 3D Hand Pose Estimation
   
 Publications
 ======
