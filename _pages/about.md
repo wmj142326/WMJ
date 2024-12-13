@@ -46,7 +46,7 @@ Publications
 
 | Image | Paper Information |
 | --- | --- |
-| ![Paper Image](image_link) | **Title**: [Paper Title](paper_link)  <br> **Authors**: Author1, Author2, Author3  <br> **Journal/Conference**: Journal/Conference Name  <br> **[PDF Download](pdf_link)**  <br> **[Code](code_link)** |
+| ![Paper Image](https://github.com/wmj142326/PVCP/blob/master/image/PVCP_dataset.png) | **Title**: [Paper Title](paper_link)  <br> **Authors**: Author1, Author2, Author3  <br> **Journal/Conference**: Journal/Conference Name  <br> **[PDF Download](pdf_link)**  <br> **[Code](code_link)** |
 | ![Paper Image](image_link) | **Title**: [Paper Title](paper_link)  <br> **Authors**: Author1, Author2, Author3  <br> **Journal/Conference**: Journal/Conference Name  <br> **[PDF Download](pdf_link)**  <br> **[Code](code_link)** |
 
 
