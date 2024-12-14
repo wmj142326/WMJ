@@ -111,3 +111,21 @@ Skills
 QR Code
 ======
   <img src="../images/QR_code.png" alt="QR code" width="200" height="auto">
+  <!-- Include Busuanzi visit statistics script -->
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<!-- Page View Count -->
+<div>
+  Page Views: <span id="busuanzi_value_page_pv"></span> times
+</div>
+
+<!-- Total Site Visit Count -->
+<div>
+  Total Site Visits: <span id="busuanzi_value_site_pv"></span> times
+</div>
+
+<!-- Unique Visitors -->
+<div>
+  Unique Visitors: <span id="busuanzi_value_site_uv"></span> people
+</div>
+
