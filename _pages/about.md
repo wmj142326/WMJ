@@ -110,22 +110,46 @@ Skills
 
 QR Code
 ======
-  <img src="../images/QR_code.png" alt="QR code" width="200" height="auto">
-  <!-- Include Busuanzi visit statistics script -->
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <style>
+    /* Flex container for left and right columns */
+    .statistics-container {
+      display: flex;
+      align-items: center; /* Align items vertically centered */
+    }
+  
+    /* Left column styling (image) */
+    .statistics-container .left-column {
+      flex: 0 0 auto; /* Fixed size column for the image */
+      margin-right: 20px; /* Add space between columns */
+    }
+  
+    /* Right column styling (text) */
+    .statistics-container .right-column {
+      flex: 1; /* Takes remaining space */
+    }
+  </style>
+  
+  <div class="statistics-container">
+    <!-- Left column: QR code image -->
+    <div class="left-column">
+      <img src="../images/QR_code.png" alt="QR code" width="200" height="auto">
+    </div>
+  
+    <!-- Right column: Statistics text -->
+    <div class="right-column">
+      <!-- Include Busuanzi visit statistics script -->
+      <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+      
+      <!-- Page View Count -->
+      <div>
+        Page Views: <span id="busuanzi_value_page_pv"></span> times
+      </div>
+      
+      <!-- Unique Visitors -->
+      <div>
+        Unique Visitors: <span id="busuanzi_value_site_uv"></span> people
+      </div>
+    </div>
+  </div>
 
-<!-- Page View Count -->
-<div>
-  Page Views: <span id="busuanzi_value_page_pv"></span> times
-</div>
-
-<!-- Total Site Visit Count -->
-<div>
-  Total Site Visits: <span id="busuanzi_value_site_pv"></span> times
-</div>
-
-<!-- Unique Visitors -->
-<div>
-  Unique Visitors: <span id="busuanzi_value_site_uv"></span> people
-</div>
 
