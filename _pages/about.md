@@ -43,7 +43,7 @@ Publications
 ======
 * You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=zh-CN)
 * You can find my projects on [my Github profile](https://github.com/wmj142326)
-* Publications as First Author
+* First-Author Publications
   
   > <style>
   >   table {
