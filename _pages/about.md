@@ -43,6 +43,7 @@ Publications
 ======
 * You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=Ganf8zgAAAAJ&hl=zh-CN)
 * You can find my projects on [my Github profile](https://github.com/wmj142326)
+* Publications as First Author
   
   > <style>
   >   table {
@@ -102,6 +103,15 @@ Publications
   >   </tr>
   > </table>
 
+* Co-authored Publications
+
+  > Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction
+  > C Zheng, L Liu, Y Meng, X Peng, **M Wang**
+  > (TCSVT) IEEE Transactions on Circuits and Systems for Video Technology
+
+  >  Passable area segmentation for open-pit mine road from vehicle perspective
+  >  C Zheng, L Liu, Y Meng, M Wang, X Jiang
+  >  (EAAI) Engineering Applications of Artificial Intelligence 129, 107610
 
 Skills
 ======
