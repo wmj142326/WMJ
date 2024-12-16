@@ -105,13 +105,14 @@ Publications
 
 * Co-authored Publications
 
-  > [Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Few-shot+Point+Cloud+Semantic+Segmentation+via+Support-Query+Feature+Interaction&btnG=)<br>
-  > C Zheng, L Liu, Y Meng, X Peng, **M Wang**<br>
-  > (TCSVT) IEEE Transactions on Circuits and Systems for Video Technology<br>
+  > <span style="font-size:13px;">[Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Few-shot+Point+Cloud+Semantic+Segmentation+via+Support-Query+Feature+Interaction&btnG=)</span><br>
+  > <span style="font-size:13px;">C Zheng, L Liu, Y Meng, X Peng, **M Wang**</span><br>
+  > <span style="font-size:13px;">(TCSVT) IEEE Transactions on Circuits and Systems for Video Technology</span><br>
   
-  > [Passable area segmentation for open-pit mine road from vehicle perspective](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Meijun+Wang+Passable+area+segmentation+for+open-pit+mine+road+from+vehicle+perspective&btnG=)<br>
-  > C Zheng, L Liu, Y Meng, **M Wang**, X Jiang<br>
-  > (EAAI) Engineering Applications of Artificial Intelligence 129, 107610
+  > <span style="font-size:13px;">[Passable area segmentation for open-pit mine road from vehicle perspective](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Meijun+Wang+Passable+area+segmentation+for+open-pit+mine+road+from+vehicle+perspective&btnG=)</span><br>
+  > <span style="font-size:13px;">C Zheng, L Liu, Y Meng, **M Wang**, X Jiang</span><br>
+  > <span style="font-size:13px;">(EAAI) Engineering Applications of Artificial Intelligence 129, 107610</span>
+
 
 
 Skills
