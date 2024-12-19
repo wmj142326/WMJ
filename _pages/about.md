@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 👋 Welcome to my homepage! Feel free to reach out if you have any questions. 
+
 Sharing, contributing, open-sourcing, and helping others are some of my greatest joys!
 
 {% include base_path %}
