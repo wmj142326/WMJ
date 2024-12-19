@@ -167,7 +167,6 @@ QR Code
       <div>
         Feel free to leave your thoughts [Here 💬](https://github.com/wmj142326/wmj142326.github.io/issues/new?title=Comment&body=Your%20comment%20here).
       </div>
-
     </div>
   </div>
 
