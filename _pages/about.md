@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! Feel free to reach out if you have any questions. Sharing, contributing, open-sourcing, and helping others are some of my greatest joys!
+👋 Welcome to my homepage! Feel free to reach out if you have any questions. Sharing, contributing, open-sourcing, and helping others are some of my greatest joys!
 
 {% include base_path %}
 
@@ -164,7 +164,8 @@ QR Code
     </div>
   </div>
 
-## Comments Section
-Feel free to leave your thoughts! You can submit your comment [here](https://github.com/wmj142326/wmj142326.github.io/issues/new?title=Comment&body=Your%20comment%20here).
+Comments
+======
+Feel free to leave your thoughts! You can submit your comment [Here 💬](https://github.com/wmj142326/wmj142326.github.io/issues/new?title=Comment&body=Your%20comment%20here).
 
 
