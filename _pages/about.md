@@ -164,4 +164,7 @@ QR Code
     </div>
   </div>
 
+## Comments Section
+Feel free to leave your thoughts! You can submit your comment [here](https://github.com/wmj142326/wmj142326.github.io/issues/new?title=Comment&body=Your%20comment%20here).
+
 
