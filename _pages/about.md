@@ -162,12 +162,8 @@ QR Code
       <div>
         Unique Visitors: <span id="busuanzi_value_site_uv"></span> people
       </div>
-
-      <!-- Comments -->
-      <div>
-        Feel free to leave your thoughts <a href="https://github.com/wmj142326/wmj142326.github.io/issues/new?title=Comment&body=Your%20comment%20here" target="_blank">Here 💬</a>.
-      </div>
     </div>
   </div>
 
+Feel free to leave your thoughts! You can submit your comment [Here 💬](https://github.com/wmj142326/wmj142326.github.io/issues/new?title=Comment&body=Your%20comment%20here).
 
