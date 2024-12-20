@@ -89,6 +89,7 @@ Publications
   >       <a href="https://openreview.net/pdf?id=ldvfaYzG35" class="link">PDF</a>
   >       <a href="https://github.com/wmj142326/PVCP" class="link">Code1</a>
   >       <a href="https://github.com/wmj142326/SMPL_Tools" class="link">Code2</a>
+  >       <a href="https://www.bilibili.com/video/BV1xek2YsEr8/?spm_id_from=333.999.0.0" class="link">Video</a>
   >       <a href="https://neurips.cc/virtual/2024/poster/93814" class="link">More</a>
   >     </td>
   >   </tr>
