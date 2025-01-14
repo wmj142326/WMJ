@@ -98,7 +98,7 @@ Publications
   >     <td>
   >       <a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Real-Time+Reconstruction+of+Multi-Body+Pedestrian+Pre-Impact+Posture+in+Collision+Accidents+From+Monocular+Images&btnG="><strong>Real-Time Reconstruction of Multi-Body Pedestrian Pre-Impact Posture in Collision Accidents From Monocular Images</strong></a><br>
   >       <span class="small-text"><strong class="highlight">MeiJun Wang</strong>, Yu Meng<sup class="star">*</sup>, Yan Xu, Quan Li, Bingbing Nie</span><br>
-  >       <span class="small-text">(TITS) IEEE Transactions on Intelligent Transportation Systems, 2024</span><br>
+  >       <span class="small-text">(TITS 2024) IEEE Transactions on Intelligent Transportation Systems</span><br>
   >       <a href="https://ieeexplore.ieee.org/abstract/document/10746249" class="link">PDF</a>
   >       <a href="https://github.com/wmj142326/MBPR" class="link">Code</a>
   >     </td>
@@ -109,11 +109,15 @@ Publications
 
   ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Few-shot+Point+Cloud+Semantic+Segmentation+via+Support-Query+Feature+Interaction&btnG=" style="font-size: 13px;"><strong>Few-shot Point Cloud Semantic Segmentation via Support-Query Feature Interaction</strong></a><br>
   > <span class="small-text">C Zheng, L Liu, Y Meng, X Peng, **M Wang**</span><br>
-  > <span class="small-text">(TCSVT) IEEE Transactions on Circuits and Systems for Video Technology</span><br>
+  > <span class="small-text">(TCSVT 2024) IEEE Transactions on Circuits and Systems for Video Technology</span><br>
   > 
   ><a href="https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=+Meijun+Wang+Passable+area+segmentation+for+open-pit+mine+road+from+vehicle+perspective&btnG=" style="font-size: 13px;"><strong>Passable area segmentation for open-pit mine road from vehicle perspective</strong></a><br>
   > <span class="small-text">C Zheng, L Liu, Y Meng, **M Wang**, X Jiang</span><br>
-  > <span class="small-text">(EAAI) Engineering Applications of Artificial Intelligence 129, 107610</span>
+  > <span class="small-text">(EAAI 2024) Engineering Applications of Artificial Intelligence</span>
+  > 
+  ><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947527" style="font-size: 13px;"><strong>Integrating Convolutional Guidance and Transformer Fusion with Markov Random Fields Smoothing for Monocular Depth Estimation</strong></a><br>
+  > <span class="small-text">Xiaorui, Peng; Meng, Yu; Boqiang, Shi; Chao, Zheng; **Meijun, Wang**</span><br>
+  > <span class="small-text">(EAAI 2025) Engineering Applications of Artificial Intelligence</span>
 
 
 
